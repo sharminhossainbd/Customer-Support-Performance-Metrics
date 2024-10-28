@@ -4,7 +4,7 @@
 
 This report examines key customer support performance metrics over a four-month period, from July to October 2020. The data covers multiple aspects of customer interaction, including live chat conversations, response times, customer feedback, call volumes, and verification times. Analyzing these metrics provides valuable insights into the efficiency and effectiveness of customer support operations, helping identify both strengths and areas needing improvement.
 
-[<img src='https://sharminhossainbd.github.io/Performance-UX-Optimization-Tests/UX.jpg'>](https://sharminhossainbd.github.io/Performance-UX-Optimization-Tests/UX.jpg)
+[<img src='https://sharminhossainbd.github.io/Customer-Support-Performance-Metrics/cs.jpg'>](https://sharminhossainbd.github.io/Customer-Support-Performance-Metrics/cs.jpg)
 
 ## Key Metrics and Observations
 
